@@ -1,6 +1,7 @@
 # Internship-Cognifyz-Technologies
 
 Level 1
+
 Task-1: Data Exploration and Preprocessing
 - Explore the dataset and identify the number of rows and columns.
 - Check for missing values in each column and handle them accordingly.
